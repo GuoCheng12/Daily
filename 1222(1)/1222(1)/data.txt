@@ -1,0 +1,5 @@
+   1        zhangsan   60
+   2            lisi   70
+   3          wangwu   80
+   4         zhouliu   90
+   5          zhouyi   100
